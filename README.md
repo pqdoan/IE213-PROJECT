@@ -90,7 +90,7 @@ The system allows users to search hotels, view hotel details, book rooms, manage
 ## 1️⃣ Clone project
 
 ```bash
-git clone https://github.com/yourusername/stayvn.git
+git clone https://github.com/pqdoan/IE213-PROJECT.git
 ```
 
 ---
